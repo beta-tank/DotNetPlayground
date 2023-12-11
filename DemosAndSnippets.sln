@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendHttpRequest", "Web\SendHttpRequest\SendHttpRequest.csproj", "{BE3EF098-8071-4CC6-BB5E-C72A35DB7C1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{F8042AB6-F1D6-472D-B94E-14016CD3B718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3EF098-8071-4CC6-BB5E-C72A35DB7C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3EF098-8071-4CC6-BB5E-C72A35DB7C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3EF098-8071-4CC6-BB5E-C72A35DB7C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3EF098-8071-4CC6-BB5E-C72A35DB7C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE3EF098-8071-4CC6-BB5E-C72A35DB7C1B} = {F8042AB6-F1D6-472D-B94E-14016CD3B718}
+	EndGlobalSection
+EndGlobal
